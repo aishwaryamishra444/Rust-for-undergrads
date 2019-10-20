@@ -1,0 +1,8 @@
+fn main()
+{
+let x=19;
+let y=29;
+let z;
+z=x+y;
+println!("sum is : {}",z);
+}
